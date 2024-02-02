@@ -1,0 +1,12 @@
+.td1{
+    background:rgb(197, 220, 141);height: 100px;
+}
+
+.td2{
+    background:rgb(255, 196, 137);height: 100px;
+}
+
+table{
+    width:100%; 
+    border:1;
+}

@@ -1,0 +1,36 @@
+body,html{
+    height: 100%;
+    margin: 0;
+    font-size: 30px;
+    color: rgb(221, 255, 0);
+}
+
+.pimg1{
+    background-image:url('https://e.huawei.com/-/mediae/EBG/Images/case-study/cases_study_banner/thailand-revised-banner-mobile.jpg');
+    min-height: 100%;
+}
+
+.pimg2{
+    background-color:#000;
+    min-height: 100%;
+}
+
+.pimg3{
+    background-image:url('https://www.pcc.kmitl.ac.th/wp-content/uploads/2022/03/background_FIGHTgo-03-1366x768-1.png');
+    min-height: 100%;
+}
+
+.pimg1, .pimg2, .pimg3{
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.ptext{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
